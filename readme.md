@@ -10,3 +10,13 @@
 - [MiXiT : La conférence tech pour l'éthique et la diversité](https://www.youtube.com/@mixitconf)
 - [GDG France : Conférence pour développeur tech](https://www.youtube.com/@GDGFrance/)
 - [AFUP PHP : Conférence de l'Association Française des Utilisateurs de PHP](https://www.youtube.com/@afupPHP)
+
+## Ressources Audio
+
+### Podcast
+
+- [Human Coders](https://www.humancoders.com/pages/podcast)
+- [If this then dev](https://www.ifttd.io/)
+- [Podcasts developpeurs](https://alexsoyes.com/podcasts-developpeurs/)
+- [PodcastFrance : Liste de podcasts tech](https://podcastfrance.fr/podcasts/high-tech/)
+- [PodcastFrance : Liste de podcasts sur le web](https://podcastfrance.fr/podcasts/web/)
