@@ -20,13 +20,8 @@ jobs:
           git config --global user.email "myemail@mail.com"
           git config --global user.name "my-bot-github-actions"
           git add index.html
-          if git diff --cached --quiet; then
-          echo "No changes to commit"
-          exit 0
-          else
           git commit -m "Auto-generate index.html from README.md"
           git push
-          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
