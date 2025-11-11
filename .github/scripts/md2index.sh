@@ -1,0 +1,102 @@
+#!/usr/bin/env bash
+#set -xeuo pipefail
+
+SOFT="markdown"
+
+TMPOUT="/tmp/out-$RANDOM.html"
+OUTPUT="/tmp/$RANDOM.html"
+
+$SOFT $1 > $TMPOUT
+
+echo '<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>
+* {
+    box-sizing: border-box;
+}
+
+:root {
+    --font-family: sans-serif;
+    --font-size: clamp(1rem, 2vw, 1.8rem);
+    --body-color: #333;
+    --body-bg-color: #fefefe;    
+    --link-color: #0066cc;
+    --link-hover: #004499;
+    --link-visited: #551a8b;
+    --link-active: #cc0000;
+    --link-focus: #0066cc;
+    --font-weight: 900;
+    --link-transition: color 0.2s;
+    --line-height: 1.6;
+}
+
+body {
+    font-family: var(--font-family);
+    font-size: var(--font-size);
+    line-height: var(--line-height);
+    color: var(--body-color);
+    background-color: var(--body-bg-color);
+}
+
+a {
+    color: var(--link-color);
+    text-decoration: none;
+    transition: var(--link-transition);
+    font-weight: var(--font-weight);
+}
+
+a:hover,
+a:focus {
+    color: var(--link-hover);
+    text-decoration: underline;
+}
+
+a:active {
+    color: var(--link-active);
+}
+
+a::before {
+    content: "> ";
+}
+
+ul {
+    list-style: none;
+}
+
+h1:before {
+    content:"# ";
+}
+
+h2:before {
+    content:"## ";
+}
+
+h3:before {
+    content:"### ";
+}
+
+h4:before {
+    content:"#### ";
+}
+
+h5:before {
+    content:"##### ";
+}
+
+
+
+    </style>
+
+</head>
+<body>
+<main>
+'"$(cat $TMPOUT)"'
+</main>
+</body>
+</html>
+' > $OUTPUT
+
+cat "$OUTPUT" > index.html 2>&1
