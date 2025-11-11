@@ -11,6 +11,7 @@
 - [MiXiT : La conférence tech pour l'éthique et la diversité](https://www.youtube.com/@mixitconf)
 - [GDG France : Conférence pour développeur tech](https://www.youtube.com/@GDGFrance/)
 - [AFUP PHP : Conférence de l'Association Française des Utilisateurs de PHP](https://www.youtube.com/@afupPHP)
+- [Big Data & AI](https://www.bigdataparis.com/)
 
 ## Ressources Audio
 
