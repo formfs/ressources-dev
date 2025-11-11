@@ -15,6 +15,7 @@ jobs:
 
       - name: Run README to HTML script
         run: .github/scripts/md2index.sh
+        with:
           source: readme.md
           output: index.html
 
