@@ -4,6 +4,7 @@
 
 ### Conférences
 
+- [Paris Web](https://www.paris-web.fr/)
 - [Codeurs en Seine : La conférence IT en Normandie](https://www.youtube.com/@Codeursenseine)
 - [Human Talks](https://www.youtube.com/@HumanTalksParis)
 - [Devoxx france : La plus grande conférence indépendante autour du développement et de la programmation, en Europe.](https://www.youtube.com/@DevoxxFRvideos)
