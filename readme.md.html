@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>
+* {
+    box-sizing: border-box;
+}
+
+:root {
+    --font-family: sans-serif;
+    --font-size: clamp(1rem, 2vw, 1.8rem);
+    --body-color: #333;
+    --body-bg-color: #fefefe;    
+    --link-color: #0066cc;
+    --link-hover: #004499;
+    --link-visited: #551a8b;
+    --link-active: #cc0000;
+    --link-focus: #0066cc;
+    --font-weight: 900;
+    --link-transition: color 0.2s;
+    --line-height: 1.6;
+}
+
+body {
+    font-family: var(--font-family);
+    font-size: var(--font-size);
+    line-height: var(--line-height);
+    color: var(--body-color);
+    background-color: var(--body-bg-color);
+}
+
+a {
+    color: var(--link-color);
+    text-decoration: none;
+    transition: var(--link-transition);
+    font-weight: var(--font-weight);
+}
+
+a:hover,
+a:focus {
+    color: var(--link-hover);
+    text-decoration: underline;
+}
+
+a:active {
+    color: var(--link-active);
+}
+
+a::before {
+    content: "> ";
+}
+
+ul {
+    list-style: none;
+}
+
+h1:before {
+    content:"# ";
+}
+
+h2:before {
+    content:"## ";
+}
+
+h3:before {
+    content:"### ";
+}
+
+h4:before {
+    content:"#### ";
+}
+
+h5:before {
+    content:"##### ";
+}
+
+
+
+    </style>
+
+</head>
+<body>
+<main>
+<h1>Veille technologique</h1>
+
+<h2>Ressources Vidéo</h2>
+
+<h3>Conférences</h3>
+
+<ul>
+<li><a href="https://www.paris-web.fr/">Paris Web</a></li>
+<li><a href="https://www.youtube.com/@Codeursenseine">Codeurs en Seine : La conférence IT en Normandie</a></li>
+<li><a href="https://www.youtube.com/@HumanTalksParis">Human Talks</a></li>
+<li><a href="https://www.youtube.com/@DevoxxFRvideos">Devoxx france : La plus grande conférence indépendante autour du développement et de la programmation, en Europe.</a></li>
+<li><a href="https://www.youtube.com/@mixitconf">MiXiT : La conférence tech pour l'éthique et la diversité</a></li>
+<li><a href="https://www.youtube.com/@GDGFrance/">GDG France : Conférence pour développeur tech</a></li>
+<li><a href="https://www.youtube.com/@afupPHP">AFUP PHP : Conférence de l'Association Française des Utilisateurs de PHP</a></li>
+<li><a href="https://www.bigdataparis.com/">Big Data &amp; AI</a></li>
+<li><a href="https://www.a11yparis.org/">A11Y Conférence sur l’accessibilité numérique</a></li>
+</ul>
+
+
+<h2>Ressources Audio</h2>
+
+<h3>Podcast</h3>
+
+<ul>
+<li><a href="https://www.humancoders.com/pages/podcast">Human Coders</a></li>
+<li><a href="https://www.ifttd.io/">If this then dev</a></li>
+<li><a href="https://alexsoyes.com/podcasts-developpeurs/">Podcasts developpeurs</a></li>
+<li><a href="https://podcastfrance.fr/podcasts/high-tech/">Podcast France : Liste de podcasts tech</a></li>
+<li><a href="https://podcastfrance.fr/podcasts/web/">Podcast France : Liste de podcasts sur le web</a></li>
+</ul>
+</main>
+</body>
+</html>
+
