@@ -12,6 +12,7 @@
 - [GDG France : Conférence pour développeur tech](https://www.youtube.com/@GDGFrance/)
 - [AFUP PHP : Conférence de l'Association Française des Utilisateurs de PHP](https://www.youtube.com/@afupPHP)
 - [Big Data & AI](https://www.bigdataparis.com/)
+- [A11Y Conférence sur l’accessibilité numérique](https://www.a11yparis.org/)
 
 ## Ressources Audio
 
