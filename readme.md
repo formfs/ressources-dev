@@ -1,5 +1,9 @@
 # Veille technologique
 
+## Ressources web
+
+- [Guidelines de l'agence web Alsacréations](https://github.com/alsacreations/kiwipedia/)
+
 ## Ressources Vidéo
 
 ### Conférences
