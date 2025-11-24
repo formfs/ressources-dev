@@ -3,6 +3,12 @@
 ## Ressources web
 
 - [Guidelines de l'agence web Alsacréations](https://github.com/alsacreations/kiwipedia/)
+- [Le journal du Hacker](https://www.journalduhacker.net)
+- [Hacker News](https://news.ycombinator.com/)
+- [Lobsters](https://lobste.rs/)
+- [Slashdot](https://slashdot.org/)
+- [HindieHackers](https://www.indiehackers.com/)
+- [ProductHunt](https://www.producthunt.com/)
 
 ## Ressources Vidéo
 
