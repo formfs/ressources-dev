@@ -3,6 +3,7 @@
 ## Ressources web
 
 - [Guidelines de l'agence web Alsacréations](https://github.com/alsacreations/kiwipedia/)
+- [Developpez](https://www.developpez.com/)
 
 
 ## Site de news
@@ -13,6 +14,7 @@
 - [Slashdot](https://slashdot.org/)
 - [HindieHackers](https://www.indiehackers.com/)
 - [ProductHunt](https://www.producthunt.com/)
+- [Linuxfr](https://linuxfr.org/)
 
 ## Ressources Vidéo
 
