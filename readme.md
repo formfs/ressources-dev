@@ -32,6 +32,7 @@
 - [A11Y Conférence sur l’accessibilité numérique](https://www.a11yparis.org/)
 - [France API](https://franceapi.fr/)
 - [YOUNUP ESN](https://www.youtube.com/channel/UCFsmqLRhlTFiEwNbOCDzRiA)
+- [BDX I/O](https://www.youtube.com/channel/UCA7pEYY0BlgCdpbnjhCDezQ)
 
 
 ## Ressources Audio
