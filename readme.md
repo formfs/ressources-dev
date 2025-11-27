@@ -4,6 +4,7 @@
 
 - [Guidelines de l'agence web Alsacréations](https://github.com/alsacreations/kiwipedia/)
 - [Developpez](https://www.developpez.com/)
+- [Awesome lists](https://github.com/sindresorhus/awesome?tab=readme-ov-file)
 
 
 ## Site de news
