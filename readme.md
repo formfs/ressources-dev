@@ -5,6 +5,8 @@
 - [Guidelines de l'agence web Alsacréations](https://github.com/alsacreations/kiwipedia/)
 - [Developpez](https://www.developpez.com/)
 - [Awesome lists](https://github.com/sindresorhus/awesome?tab=readme-ov-file)
+- [Roadmaps](https://roadmap.sh/)
+- [Maîtrisez l’industrialisation du développement, de l’infra et de la sécurité](https://blog.stephane-robert.info/)
 
 
 ## Site de news
