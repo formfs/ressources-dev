@@ -7,6 +7,7 @@
 - [Awesome lists](https://github.com/sindresorhus/awesome?tab=readme-ov-file)
 - [Roadmaps](https://roadmap.sh/)
 - [Maîtrisez l’industrialisation du développement, de l’infra et de la sécurité](https://blog.stephane-robert.info/)
+- [Freecodecamp news](https://www.freecodecamp.org/news/)
 
 
 ## Site de news
