@@ -9,6 +9,9 @@
 - [Maîtrisez l’industrialisation du développement, de l’infra et de la sécurité](https://blog.stephane-robert.info/)
 - [Freecodecamp news](https://www.freecodecamp.org/news/)
 
+## Ressources Documentation
+
+- [Guide Des écrits professionnels (PDF)](https://numericoach.net/IMG/pdf/id-redaction-professionnelle-112024.pdf)
 
 ## Site de news
 
