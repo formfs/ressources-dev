@@ -8,6 +8,7 @@
 - [Roadmaps](https://roadmap.sh/)
 - [Maîtrisez l’industrialisation du développement, de l’infra et de la sécurité](https://blog.stephane-robert.info/)
 - [Freecodecamp news](https://www.freecodecamp.org/news/)
+- [Opquast : la qualité numérique](https://www.opquast.com/)
 
 
 ## Site de news
