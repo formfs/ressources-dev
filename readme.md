@@ -10,6 +10,9 @@
 - [Freecodecamp news](https://www.freecodecamp.org/news/)
 - [Opquast : la qualité numérique](https://www.opquast.com/)
 
+## Ressources Documentation
+
+- [Guide Des écrits professionnels (PDF)](https://numericoach.net/IMG/pdf/id-redaction-professionnelle-112024.pdf)
 
 ## Site de news
 
