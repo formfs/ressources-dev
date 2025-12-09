@@ -52,3 +52,12 @@
 - [Podcasts developpeurs](https://alexsoyes.com/podcasts-developpeurs/)
 - [Podcast France : Liste de podcasts tech](https://podcastfrance.fr/podcasts/high-tech/)
 - [Podcast France : Liste de podcasts sur le web](https://podcastfrance.fr/podcasts/web/)
+
+## Outils de présentations
+
+- Présentations à de **HTML,CSS et Javascript** : [RevealJS](https://revealjs.com/)
+  - [Graphikart - Créer des présentation avec Revealjs](https://grafikart.fr/tutoriels/reveal-js-presentation-2109)
+
+- Présentations à base de **markdown** : [Marp](https://marp.app)
+  - [Marp : présentations rapides et jolies avec Markdown](https://blog.zwindler.fr/2021/09/13/marp-presentations-rapides-et-jolies-avec-markdown/)
+  - [MARP : Créer des présentations simples très rapidement](https://www.freelance-fullstack.dev/blog/marp-presentations-simples.html)
