@@ -55,7 +55,7 @@
 
 ## Outils de présentations
 
-- Présentations à de **HTML,CSS et Javascript** : [RevealJS](https://revealjs.com/)
+- Présentations à base de **HTML,CSS et Javascript** : [RevealJS](https://revealjs.com/)
   - [Graphikart - Créer des présentation avec Revealjs](https://grafikart.fr/tutoriels/reveal-js-presentation-2109)
 
 - Présentations à base de **markdown** : [Marp](https://marp.app)
