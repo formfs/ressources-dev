@@ -9,6 +9,7 @@
 - [Maîtrisez l’industrialisation du développement, de l’infra et de la sécurité](https://blog.stephane-robert.info/)
 - [Freecodecamp news](https://www.freecodecamp.org/news/)
 - [Opquast : la qualité numérique](https://www.opquast.com/)
+- [24 jours de web, le calendrier de l’avent des gens qui font le web d’après](https://www.24joursdeweb.fr/)
 
 ## Ressources Documentation
 
