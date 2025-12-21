@@ -10,6 +10,7 @@
 - [Freecodecamp news](https://www.freecodecamp.org/news/)
 - [Opquast : la qualité numérique](https://www.opquast.com/)
 - [24 jours de web, le calendrier de l’avent des gens qui font le web d’après](https://www.24joursdeweb.fr/)
+- [Advent of Code](https://adventofcode.com/)
 
 ## Ressources Documentation
 
